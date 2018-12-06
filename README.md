@@ -9,6 +9,8 @@ BTC Ethereum NEO ONT BIP44 Python
 
 
 ## Requirements
+Python version:  3.6  
+
 Install dependence packages: 
 ```shell 
 pip install -r requirements.txt

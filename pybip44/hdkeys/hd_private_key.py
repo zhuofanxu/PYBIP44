@@ -3,8 +3,8 @@
 from two1.bitcoin.utils import rand_bytes
 from .hd_key import HDKey, HARDENED_HEXA
 from .hd_public_key import HDPublicKey
-from pybip44.chain_manager import ChainManager
-from pybip44.utils import hashlib, hmac, get_bytes, Mnemonic
+from ..chain_manager import ChainManager
+from ..utils import hashlib, hmac, get_bytes, Mnemonic
 
 class HDPrivateKey(HDKey):
 

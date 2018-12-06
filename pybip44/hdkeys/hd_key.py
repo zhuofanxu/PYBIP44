@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from pybip44.utils import get_bytes
+from ..utils import get_bytes
 
 HARDENED_HEXA = 0x80000000
 

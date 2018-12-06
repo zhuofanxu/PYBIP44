@@ -2,7 +2,7 @@
 
 import hashlib
 from two1.bitcoin.utils import bytes_to_str
-from pybip44.utils import sha3
+from ..utils import sha3
 
 class PublicKey(object):
 
