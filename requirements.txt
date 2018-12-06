@@ -1,0 +1,5 @@
+base58==1.0.2
+pycryptodomex==3.7.2
+two1==3.10.9
+rlp==1.0.3
+neocore==0.5.4
