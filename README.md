@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 
 ## Usage
-Master Keys Creation:
+master key creation from system entropy
 ```python
 from pybip44 import HDPrivateKey
 master_key, mnemonic = HDPrivateKey.master_key_from_entropy()
